@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/mai-huong/static/css/main.a5ce342d.css",
+    "main.js": "/mai-huong/static/js/main.0dddbcaa.js",
+    "static/js/453.5b6ea8ef.chunk.js": "/mai-huong/static/js/453.5b6ea8ef.chunk.js",
+    "index.html": "/mai-huong/index.html",
+    "main.a5ce342d.css.map": "/mai-huong/static/css/main.a5ce342d.css.map",
+    "main.0dddbcaa.js.map": "/mai-huong/static/js/main.0dddbcaa.js.map",
+    "453.5b6ea8ef.chunk.js.map": "/mai-huong/static/js/453.5b6ea8ef.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a5ce342d.css",
+    "static/js/main.0dddbcaa.js"
+  ]
+}
